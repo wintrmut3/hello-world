@@ -1,4 +1,4 @@
 # hello-world
 tutorial
 
-## This is apparently in **markdown**, and temporarily a brnahc.
+## This is apparently in **markdown**, and temporarily a branch.
